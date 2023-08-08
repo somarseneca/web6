@@ -8,7 +8,7 @@
  * 
  *  Github link: https://github.com/somarseneca/assignment6
  *
- *  Online (Cyclic) Link: https://app.cyclic.sh/#/app/somarseneca-assignment6/overview
+ *  Online (Cyclic) Link: https://puzzled-helmet-fox.cyclic.app/login
  *
  ********************************************************************************/
 
