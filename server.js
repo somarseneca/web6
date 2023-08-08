@@ -6,9 +6,9 @@
  *
  *  Name: Sumaya Omar Student ID: 127166221 Date: 7 august 2023
  * 
- *  Github link: https://github.com/somarseneca/assignment4
+ *  Github link: https://github.com/somarseneca/assignment6
  *
- *  Online (Cyclic) Link: https://app.cyclic.sh/#/app/somarseneca-assignment4/overview
+ *  Online (Cyclic) Link: https://puzzled-helmet-fox.cyclic.app/login
  *
  ********************************************************************************/
 
